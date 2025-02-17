@@ -1,4 +1,5 @@
-streamlit>=1.24.0
-torch>=2.0.0
-transformers>=4.30.0
+streamlit>=1.41.1
+torch>=2.6.0
+transformers>=4.48.1
+accelerate>=0.27.2
 peewee>=3.16.0
